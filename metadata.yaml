@@ -1,0 +1,30 @@
+_repo: An-Ideal-Kitchen-Miss-Parloa-s-Kitchen-Companion-A-Guide-for-All-Who-Would-Be-Good-Housekeepe__53892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parloa, Maria
+    alias: Parloa, Miss (Maria)
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '2186'
+    url: http://www.gutenberg.org/2009/agents/2186
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Parloa
+description: ''
+gutenberg_issued: '2017-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcsh 'Kitchen utensils'
+- !lcc 'TX'
+- !lcsh 'Home economics'
+- !lcsh 'Kitchens'
+- GITenberg
+title: "An Ideal Kitchen: Miss Parloa's Kitchen Companion\r\nA Guide for All Who Would\
+  \ Be Good Housekeepers"
+url: http://www.gutenberg.org/ebooks/53892
